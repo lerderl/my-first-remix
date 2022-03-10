@@ -19,4 +19,4 @@ Output from script will appear in remix terminal.
 
 ### MY CONTRACT ADDRESS
 
-My contract address is 0xa306d82d72985d8b15af9a6ee36e1f5c7f8b3acb
+My contract address is: https://rinkeby.etherscan.io/address/0xa306d82d72985d8b15af9a6ee36e1f5c7f8b3acb
